@@ -17,13 +17,13 @@ body {
 
 .headline > .container > h1 {
 	font-size: 130px;
-	background: #ffffff;
+	background: #87d3ff;
 	background: rgba(255, 255, 255, 0.9);
 }
 
 .headline > .container > h2 {
 	font-size: 77px;
-	background: #ffffff;
+	background: #cdf5ff;
 	background: rgba(255, 255, 255, 0.9);
 }
 
@@ -31,7 +31,8 @@ body {
 	margin: 80px 0;
 }
 .featurette {
-	overflow: hidden; 
+	overflow: hidden;
+	background: #cdf5ff;
 }
 
 .featurette-image.pull-left {
