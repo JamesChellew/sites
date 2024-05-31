@@ -33,6 +33,7 @@ body {
 .featurette {
 	overflow: hidden;
 	background: #cdf5ff;
+	padding: 0 60px;
 }
 
 .featurette-image.pull-left {
